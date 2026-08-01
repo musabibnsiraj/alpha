@@ -16,3 +16,24 @@ git push
 
 # Pull latest changes
 git pull 
+
+----------------------------------
+
+git pull
+
+students/name.md
+
+git status
+
+git add .
+
+git status
+
+git config --global user.email "{your-email]"
+
+git config --global user.name"{your-name]"
+
+
+git commit -m "musab"
+
+git push
