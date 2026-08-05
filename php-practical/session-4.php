@@ -2,9 +2,7 @@
 
 declare(strict_types=1); // strict requirement
 
-
-
-echo '<h2>PHP For Loop</h2>';
+echo '<h2> PHP For Loop </h2>';
 
 // PHP For Loop 
 echo "<br><br>";
