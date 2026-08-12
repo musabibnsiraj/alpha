@@ -153,7 +153,7 @@
         </div>
     </div>
 
-    <!-- <script>
+   <script>
         const form = document.getElementById('contactForm');
         const fields = ['name', 'email', 'subject', 'message'];
 
@@ -196,7 +196,7 @@
                 event.preventDefault();
             }
         });
-    </script> -->
+    </script> 
 </body>
 
 </html>
