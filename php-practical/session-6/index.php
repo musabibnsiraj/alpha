@@ -125,25 +125,25 @@
                 <div class="field">
                     <label for="name">Name</label>
                     <input type="text" id="name" name="name" placeholder="Enter your name" required minlength="3">
-                    <div class="error">Please enter at least 3 characters.</div>
+                    <!-- <div class="error">Please enter at least 3 characters.</div> -->
                 </div>
 
                 <div class="field">
                     <label for="email">E-mail</label>
                     <input type="email" id="email" name="email" placeholder="Enter your email" required>
-                    <div class="error">Please enter a valid email address.</div>
+                    <!-- <div class="error">Please enter a valid email address.</div> -->
                 </div>
 
                 <div class="field">
                     <label for="subject">Subject</label>
                     <input type="text" id="subject" name="subject" placeholder="Enter subject" required minlength="4">
-                    <div class="error">Please enter at least 4 characters.</div>
+                    <!-- <div class="error">Please enter at least 4 characters.</div> -->
                 </div>
 
                 <div class="field">
                     <label for="message">Message</label>
                     <textarea id="message" name="message" placeholder="Write your message" required minlength="10"></textarea>
-                    <div class="error">Please enter at least 10 characters.</div>
+                    <!-- <div class="error">Please enter at least 10 characters.</div> -->
                 </div>
 
                 <div class="actions">
@@ -153,7 +153,7 @@
         </div>
     </div>
 
-   <script>
+   <!-- <script>
         const form = document.getElementById('contactForm');
         const fields = ['name', 'email', 'subject', 'message'];
 
@@ -196,7 +196,7 @@
                 event.preventDefault();
             }
         });
-    </script> 
+    </script>  -->
 </body>
 
 </html>
